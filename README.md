@@ -1,6 +1,6 @@
 # lab-springboot-multiconfig
 
-/src/main/resources/application.properties
+The main properties file: **/src/main/resources/application.properties**
 
 > spring.profiles.active=dev
 
